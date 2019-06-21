@@ -407,7 +407,7 @@ Mappings:
     us-west-1:
       AMI: ami-a51f27c5
     us-west-2:
-      AMI: ami-bf4193c7
+      AMI: ami-07669fc90e6e6cc47
 
 Resources:
 
